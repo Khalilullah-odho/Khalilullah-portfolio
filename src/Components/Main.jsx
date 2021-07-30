@@ -4,7 +4,7 @@ import { Button, Tooltip } from "antd";
 import { FaFacebookF, FaLinkedinIn, FaGithub } from "react-icons/fa";
 import cv from "../img/mycv.pdf";
 
-import myImg from "../img/khalil.png";
+import myImg from "../img/myImg.jpg";
 
 const Main = () => {
   return (
