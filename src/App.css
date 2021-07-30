@@ -113,6 +113,7 @@
 }
 .profile img {
   width: 180px;
+  border-radius: 50%;
 }
 
 .follow-me {
@@ -172,7 +173,7 @@
 }
 
 .detail-card {
-  padding: 2rem 0.5rem;
+  padding: 1.5rem 0.5rem;
 }
 
 .contact-card {

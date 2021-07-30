@@ -72,7 +72,10 @@ const Certification = () => {
                     justifyContent: "center",
                   }}
                 >
-                  <p style={{ textAlign: "center", color: "#fff" }}>2020</p>
+                  <p style={{ textAlign: "center", color: "#fff" }}>
+                    2020 <br />
+                    September
+                  </p>
                   <div
                     className="h4"
                     style={{ textAlign: "center", color: "#fff" }}
