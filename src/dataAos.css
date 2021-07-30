@@ -1,0 +1,60 @@
+[data-aos="progress-html"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-html"].aos-animate {
+  width: 90%;
+}
+[data-aos="progress-css"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-css"].aos-animate {
+  width: 80%;
+}
+[data-aos="progress-javascript"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-javascript"].aos-animate {
+  width: 70%;
+}
+
+[data-aos="progress-react"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-react"].aos-animate {
+  width: 65%;
+}
+
+[data-aos="progress-node"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-node"].aos-animate {
+  width: 60%;
+}
+
+[data-aos="progress-mongo"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-mongo"].aos-animate {
+  width: 75%;
+}
+
+[data-aos="progress-java"] {
+  width: 0px;
+  background-color: #1890ff;
+  transition-property: width;
+}
+[data-aos="progress-java"].aos-animate {
+  width: 50%;
+}
