@@ -1,6 +1,8 @@
 [data-aos="progress-html"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-html"].aos-animate {
@@ -9,6 +11,8 @@
 [data-aos="progress-css"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-css"].aos-animate {
@@ -17,6 +21,8 @@
 [data-aos="progress-javascript"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-javascript"].aos-animate {
@@ -26,6 +32,8 @@
 [data-aos="progress-react"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-react"].aos-animate {
@@ -35,6 +43,8 @@
 [data-aos="progress-node"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-node"].aos-animate {
@@ -44,6 +54,8 @@
 [data-aos="progress-mongo"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-mongo"].aos-animate {
@@ -53,6 +65,8 @@
 [data-aos="progress-java"] {
   width: 0px;
   background-color: #1890ff;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
   transition-property: width;
 }
 [data-aos="progress-java"].aos-animate {
