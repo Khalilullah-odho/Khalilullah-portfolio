@@ -9,11 +9,18 @@
 .h4 {
   font-size: 1.57em;
   line-height: 1.4em;
+  width: 100%;
   text-align: initial;
 }
 .category {
   font-weight: 600;
   text-align: initial;
+  width: 100%;
+  color: #949494;
+}
+.p {
+  text-align: center;
+  color: #fff;
 }
 
 .info-title {
@@ -174,6 +181,10 @@
 
 .detail-card {
   padding: 1.5rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .contact-card {

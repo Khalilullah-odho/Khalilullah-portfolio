@@ -29,7 +29,7 @@
   transition-property: width;
 }
 [data-aos="progress-react"].aos-animate {
-  width: 65%;
+  width: 70%;
 }
 
 [data-aos="progress-node"] {
@@ -38,7 +38,7 @@
   transition-property: width;
 }
 [data-aos="progress-node"].aos-animate {
-  width: 60%;
+  width: 65%;
 }
 
 [data-aos="progress-mongo"] {
@@ -47,7 +47,7 @@
   transition-property: width;
 }
 [data-aos="progress-mongo"].aos-animate {
-  width: 75%;
+  width: 70%;
 }
 
 [data-aos="progress-java"] {
