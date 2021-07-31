@@ -55,7 +55,7 @@
 }
 
 .main {
-  background-image: url("./img/bck.jpg");
+  background-image: url("./img/cover.jfif");
   position: absolute;
   background-size: cover;
   background-position: center center;
@@ -68,7 +68,7 @@
 
 .overlay {
   position: absolute;
-  background-color: rgba(63, 81, 181, 0.3);
+  background-color: rgba(0, 0, 0, 0.6);
   width: 100%;
   height: 600px;
   z-index: -1;
