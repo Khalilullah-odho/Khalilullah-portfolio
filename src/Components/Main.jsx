@@ -2,8 +2,8 @@ import React from "react";
 import { HashLink as Link } from "react-router-hash-link";
 import { Button, Tooltip } from "antd";
 import { FaFacebookF, FaLinkedinIn, FaGithub } from "react-icons/fa";
-import cv from "../img/mycv.pdf";
 
+import cv from "../img/Khalilullah.pdf";
 import myImg from "../img/myImg.jpg";
 
 const Main = () => {

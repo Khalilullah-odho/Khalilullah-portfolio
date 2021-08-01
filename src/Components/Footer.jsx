@@ -20,7 +20,7 @@ const Footer = () => {
           </div>
           <h1>Khalilullah Odho</h1>
           <p className="copyright-text basic">
-            © 2021 Khalilullah, All Rights Reserved.
+            © {new Date().getFullYear()} Khalilullah, All Rights Reserved.
           </p>
         </div>
       </Layout.Content>

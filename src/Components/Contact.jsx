@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Layout, Row, Card } from "antd";
+import Title from "antd/lib/typography/Title";
 
 const Contact = () => {
   return (
@@ -11,7 +12,7 @@ const Contact = () => {
               <Card
                 bordered={false}
                 className="contact-card"
-                title="CONTACT"
+                title={<Title level={2}>Contact</Title>}
                 data-aos="zoom-in"
               >
                 <div>
