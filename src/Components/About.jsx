@@ -30,7 +30,7 @@ const About = () => {
               <Card bordered={false} title={<Title level={2}>Basic Information</Title>}>
                 <div>
                   <h3 className="info-title">Email</h3>
-                  <p className="info-text basic">Odhokhalilullah@outlook.com</p>
+                  <p className="info-text basic">odhokhalilullah@outlook.com</p>
                 </div>
                 <div>
                   <h3 className="info-title">Phone</h3>
