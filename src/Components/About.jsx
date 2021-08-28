@@ -14,24 +14,20 @@ const About = () => {
                   Hello I'm <strong>Khalilullah</strong>
                 </p>
                 <p className="info-text">
-                  I am passionate Programmer my core expertise is at
+                  I am passionate Programmer my core expertise is at &nbsp;
                   <strong>
-                    MERN Stack (Mongodb, Express, React & Nodejs), Security JWT,
-                    NoSQL Databases.
+                    MERN Stack (Mongodb, Express, React & Nodejs), Security JWT, NoSQL
+                    Databases.
                   </strong>
-                  &nbsp;Always at forefront to grasp the concept and overview of
-                  modern technologies. As a <strong>Computer Scientist</strong>I
-                  am also keen to have outstanding knowledge React Redux, Redux
-                  thunk, React Hooks, Java, C, Data Structures and Algorithms
-                  too.
+                  &nbsp;Always at forefront to grasp the concept and overview of modern
+                  technologies. As a <strong>Computer Scientist</strong>&nbsp; I am also keen
+                  to have outstanding knowledge React Redux, Redux thunk, React Hooks, Java, C,
+                  Data Structures and Algorithms too.
                 </p>
               </Card>
             </Col>
             <Col lg={12} sm={24} md={24} data-aos="fade-left">
-              <Card
-                bordered={false}
-                title={<Title level={2}>Basic Information</Title>}
-              >
+              <Card bordered={false} title={<Title level={2}>Basic Information</Title>}>
                 <div>
                   <h3 className="info-title">Email</h3>
                   <p className="info-text basic">Odhokhalilullah@outlook.com</p>
@@ -43,8 +39,7 @@ const About = () => {
                 <div>
                   <h3 className="info-title">Address</h3>
                   <p className="info-text basic">
-                    House # B-52/1 Phase II Qasimabad, Hyderabad, Sindh,
-                    Pakistan
+                    House # B-52/1 Phase II Qasimabad, Hyderabad, Sindh, Pakistan
                   </p>
                 </div>
               </Card>
