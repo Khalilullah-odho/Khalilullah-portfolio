@@ -31,6 +31,7 @@ const About = () => {
                 <div>
                   <h3 className="info-title">Email</h3>
                   <p className="info-text basic">odhokhalilullah@outlook.com</p>
+                  <p className="info-text basic">odhokhalilullah@gmail.com</p>
                 </div>
                 <div>
                   <h3 className="info-title">Phone</h3>
