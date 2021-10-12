@@ -31,18 +31,18 @@ const Skills = () => {
     {
       id: 5,
       skillName: "node js",
-      skillPercent: "65%",
+      skillPercent: "50%",
       skillAos: "progress-node",
     },
     {
       id: 6,
       skillName: "mongodb",
-      skillPercent: "70%",
+      skillPercent: "60%",
       skillAos: "progress-mongo",
     },
     {
       id: 7,
-      skillName: "java",
+      skillName: "core java",
       skillPercent: "50%",
       skillAos: "progress-java",
     },

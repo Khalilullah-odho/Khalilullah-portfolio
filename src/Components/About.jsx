@@ -15,14 +15,11 @@ const About = () => {
                 </p>
                 <p className="info-text">
                   I am passionate Programmer my core expertise is at &nbsp;
-                  <strong>
-                    MERN Stack (Mongodb, Express, React & Nodejs), Security JWT, NoSQL
-                    Databases.
-                  </strong>
+                  <strong>React Js Frontend Developer</strong>
                   &nbsp;Always at forefront to grasp the concept and overview of modern
-                  technologies. As a <strong>Computer Scientist</strong>&nbsp; I am also keen
-                  to have outstanding knowledge React Redux, Redux thunk, React Hooks, Java, C,
-                  Data Structures and Algorithms too.
+                  technologies.&nbsp; I have also outstanding knowledge of React Redux,
+                  Redux thunk (ReduxToolkit), React Hooks, Core Java, C, Data Structures
+                  and Algorithms too.
                 </p>
               </Card>
             </Col>
