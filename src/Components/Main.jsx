@@ -18,7 +18,7 @@ const Main = () => {
             </div>
             <div data-aos="zoom-in" data-aos-once="true" data-aos-offset="0px">
               <div className="title">Khalilullah Odho</div>
-              <p className="role">MERN STACK DEVELOPER</p>
+              <p className="role">REACT DEVELOPER</p>
             </div>
             <div className="info-btn">
               <Button type="primary" shape="round" className="download-btn">
@@ -59,7 +59,11 @@ const Main = () => {
               />
             </a>
           </Tooltip>
-          <Tooltip title="Follow me on LinkedIn" mouseEnterDelay={0.2} color="#8f8f8f">
+          <Tooltip
+            title="Follow me on LinkedIn"
+            mouseEnterDelay={0.2}
+            color="#8f8f8f"
+          >
             <a href="https://pk.linkedin.com/in/khalilullah-odho-13b2821b5">
               <Button
                 type="primary"
