@@ -6,7 +6,7 @@
   transition-property: width;
 }
 [data-aos="progress-html"].aos-animate {
-  width: 90%;
+  width: 80%;
 }
 [data-aos="progress-css"] {
   width: 0px;
@@ -16,7 +16,7 @@
   transition-property: width;
 }
 [data-aos="progress-css"].aos-animate {
-  width: 80%;
+  width: 75%;
 }
 [data-aos="progress-javascript"] {
   width: 0px;
@@ -26,7 +26,7 @@
   transition-property: width;
 }
 [data-aos="progress-javascript"].aos-animate {
-  width: 70%;
+  width: 60%;
 }
 
 [data-aos="progress-react"] {

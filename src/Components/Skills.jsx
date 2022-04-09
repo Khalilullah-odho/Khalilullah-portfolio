@@ -7,24 +7,30 @@ const Skills = () => {
     {
       id: 1,
       skillName: "html 5",
-      skillPercent: "90%",
+      skillPercent: "80%",
       skillAos: "progress-html",
     },
     {
       id: 2,
       skillName: "css 3",
-      skillPercent: "80%",
+      skillPercent: "75%",
       skillAos: "progress-css",
     },
     {
       id: 3,
       skillName: "javascript",
-      skillPercent: "70%",
+      skillPercent: "60%",
       skillAos: "progress-javascript",
     },
     {
       id: 4,
       skillName: "react js",
+      skillPercent: "70%",
+      skillAos: "progress-react",
+    },
+    {
+      id: 4,
+      skillName: "react native",
       skillPercent: "70%",
       skillAos: "progress-react",
     },
